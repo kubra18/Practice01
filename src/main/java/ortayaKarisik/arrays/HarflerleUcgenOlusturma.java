@@ -29,6 +29,7 @@ public class HarflerleUcgenOlusturma {
                     System.out.print((char) j);
                 }
                 System.out.println();
+                System.out.println("deneme");
             }
         }
     }
