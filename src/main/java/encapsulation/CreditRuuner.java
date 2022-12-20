@@ -9,5 +9,6 @@ public class CreditRuuner {
         System.out.println(cc1.isExpired());
 
         cc1.setCcn("1234567898987");
+        System.out.println("denem");
     }
 }
